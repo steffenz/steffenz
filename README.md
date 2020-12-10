@@ -1,4 +1,6 @@
-### Hi there 👋
+### Yahaha! 😸
+[You found me!](https://www.youtube.com/watch?v=5PWqt2Wg-us) This is where I hide out to write code. 
+Buh-bye!
 
 <!--
 **steffenz/steffenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
